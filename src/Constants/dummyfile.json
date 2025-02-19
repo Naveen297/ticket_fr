@@ -1,0 +1,72 @@
+[
+  {
+    "spot_no": 1,
+    "wear": 60,
+    "energyActualValue": 8608.373,
+    "resistanceActualValue": 216,
+    "Cluster": "1",
+    "final_cluster": "12",
+    "energy_Score": 73.4,
+    "resistance_Score": 80.8,
+    "resistance_scaled_value_overall": 0.92457734174217,
+    "resistance_Score_overall": 82.2,
+    "energy_scaled_value_overall": 0.55708745237063,
+    "energy_Score_overall": 71.1
+  },
+  {
+    "spot_no": 2,
+    "wear": 65,
+    "energyActualValue": 8723.156,
+    "resistanceActualValue": 224,
+    "Cluster": "2",
+    "final_cluster": "11",
+    "energy_Score": 75.2,
+    "resistance_Score": 82.5,
+    "resistance_scaled_value_overall": 0.94568123459876,
+    "resistance_Score_overall": 84.6,
+    "energy_scaled_value_overall": 0.58234567891234,
+    "energy_Score_overall": 73.4
+  },
+  {
+    "spot_no": 3,
+    "wear": 55,
+    "energyActualValue": 8512.892,
+    "resistanceActualValue": 208,
+    "Cluster": "1",
+    "final_cluster": "10",
+    "energy_Score": 71.8,
+    "resistance_Score": 78.9,
+    "resistance_scaled_value_overall": 0.89876543209876,
+    "resistance_Score_overall": 80.1,
+    "energy_scaled_value_overall": 0.52345678912345,
+    "energy_Score_overall": 69.8
+  },
+  {
+    "spot_no": 4,
+    "wear": 70,
+    "energyActualValue": 8845.234,
+    "resistanceActualValue": 232,
+    "Cluster": "3",
+    "final_cluster": "13",
+    "energy_Score": 77.6,
+    "resistance_Score": 84.2,
+    "resistance_scaled_value_overall": 0.96789123456789,
+    "resistance_Score_overall": 86.9,
+    "energy_scaled_value_overall": 0.61234567891234,
+    "energy_Score_overall": 75.7
+  },
+  {
+    "spot_no": 5,
+    "wear": 58,
+    "energyActualValue": 8567.445,
+    "resistanceActualValue": 212,
+    "Cluster": "1",
+    "final_cluster": "11",
+    "energy_Score": 72.5,
+    "resistance_Score": 79.5,
+    "resistance_scaled_value_overall": 0.90987654321098,
+    "resistance_Score_overall": 81.3,
+    "energy_scaled_value_overall": 0.53456789123456,
+    "energy_Score_overall": 70.2
+  }
+]

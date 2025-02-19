@@ -1,0 +1,14 @@
+{
+    "spot_no": 1,
+    "wear": 60,
+    "energyActualValue": 8608.373,
+    "resistanceActualValue": 216,
+    "Cluster": "1",
+    "final_cluster": "12",
+    "energy_Score": 73.4,
+    "resistance_Score": 80.8,
+    "resistance_scaled_value_overall": 0.92457734174217,
+    "resistance_Score_overall": 82.2,
+    "energy_scaled_value_overall": 0.55708745237063,
+    "energy_Score_overall": 71.1
+}
